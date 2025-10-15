@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gnqk5o31s3oewja9?svg=true)](https://ci.appveyor.com/project/LoginAtom/autotest2-1-2)
